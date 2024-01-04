@@ -14,7 +14,8 @@ Skills: Python / SQL / R language / HTML
 
 - 🌱 I’m currently learning Ai and Machine Learning 
 - 💬 Ask me about Data Structure and Algorithms 
-- 📫 How to reach me: md.rumman.shahriar@g.bracu.ac.bd & rummanshahriarrumman@gmail.com
+- 📫 How to reach me: md.rumman.shahriar@g.bracu.ac.bd 
+- ✉️ Personal mail: rummanshahriarrumman@gmail.com
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/RummanShahriar)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/rumman.shahriar.1)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/rumman_shahriar_007/)
