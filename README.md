@@ -1,5 +1,5 @@
 ![A Computer Science Engineer ](https://scontent.fdac27-1.fna.fbcdn.net/v/t39.30808-6/415517378_1981965468841346_8473074135226685631_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=3635dc&_nc_eui2=AeEqb7ufOFpV05Orjz3R4EjVzOP_Gu0WUxfM4_8a7RZTFxBLKwVlw3ulJqamWr-mKZYLHWvJWtdC6yg1AjAsNYlj&_nc_ohc=sFoFKVgBmPAAX9TcsQo&_nc_oc=AQl8AwtR_cjW0ncMN9aXPQfBNMM_bTGXc0eMVv0cydwxbtMltSRvy1un7ssPinlBLCM&_nc_ht=scontent.fdac27-1.fna&oh=00_AfAMDg1Ic-R8pAzcbYLep7QqC-07DIRGriDJNezJK8SEfw&oe=6599EBF9)
-# Hi there 👋, My name is Rumman Shahriar
+# Hi there👋, My name is Rumman Shahriar
 #### A Computer Science Engineer 
 A passionate CSE student, and My journey in the world of technology has been a thrilling ride, filled with curiosity and a constant drive to learn.
 
@@ -14,7 +14,7 @@ Skills: Python / SQL / R language / HTML
 
 - 🌱 I’m currently learning Ai and Machine Learning 
 - 💬 Ask me about Data Structure and Algorithms 
-- 📫 How to reach me: md.rumman.shahriar@g.bracu.ac.bd 
+- 📫 How to reach me: md.rumman.shahriar@g.bracu.ac.bd & rummanshahriarrumman@gmail.com
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/RummanShahriar)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/rumman.shahriar.1)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/rumman_shahriar_007/)
