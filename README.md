@@ -5,17 +5,17 @@
 
 A passionate **CSE student**, and My journey in the world of technology has been a thrilling ride, filled with curiosity and a constant drive to learn.
 
-🚀 I dreamt of specialize in the field of Data Science, where I blend creativity with technical skills to craft innovative solutions. My love for Data has led me to contribute to various ideas and collaborate with like-minded individuals in the open-source community.
+🚀 I dreamt of specialize in the field of **Data Science**, where I blend creativity with technical skills to craft innovative solutions. My love for Data has led me to contribute to various ideas and collaborate with like-minded individuals in the open-source community.
 
-♟️When I'm not immersed in lines of code, you can find me playing Chess at Chess.com
+♟️When I'm not immersed in lines of code, you can find me playing **Chess** at **Chess.com**
 
 📫 Now, Let's connect! Feel free to explore my repositories and projects. If you have any questions, suggestions, or just want to chat, drop me a message. I'm always open to new ideas and collaborations.
-Happy coding! 🖥️✨
+**Happy coding!** 🖥️✨
 
-Skills: Python / SQL / R language / HTML 
+**Skills: Python / SQL / R language / HTML** 
 
-- 🌱 I’m currently learning Ai and Machine Learning 
-- 💬 Ask me about Data Structure and Algorithms 
+- 🌱 I’m currently learning **Ai and Machine Learning** 
+- 💬 Ask me about **Data Structure and Algorithms** 
 - 📫 How to reach me: md.rumman.shahriar@g.bracu.ac.bd 
 - ✉️ Personal mail: rummanshahriarrumman@gmail.com
 - 🐼 My Resume/CV: https://drive.google.com/file/d/1l7wVRxljYiB_u2Ld_kMbeUKezh8tvr44/view?usp=sharing
