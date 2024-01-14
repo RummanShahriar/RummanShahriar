@@ -1,4 +1,4 @@
-<img align="center" alt="coding" src="https://www.facebook.com/100010837362590/videos/3398791666933842/">
+![](https://scontent.fdac27-2.fna.fbcdn.net/v/t39.30808-6/419656466_1988768731494353_1352604528539619553_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=3635dc&_nc_eui2=AeF8ro9rpy4tIcnRojbtaeUJ1PKd7ZrxkHPU8p3tmvGQc4UtCdUnGbuWMRstfiTcIh_CsvLZ7X2_u3DaHE35SVB1&_nc_ohc=vtTANHSzVG4AX-JK-i6&_nc_ht=scontent.fdac27-2.fna&oh=00_AfAfhR-xRwaPwEYfBs_PYp5R6dAiB6vLeGZ6DQPvxneOPg&oe=65A7FEF8)
 
 #### I'm a Computer Science Engineer 
 
