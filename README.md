@@ -1,5 +1,4 @@
-![Header](./your-header-image-name.png)
-![](https://scontent.fdac27-2.fna.fbcdn.net/v/t39.30808-6/419892432_1988741944830365_8599128629340623956_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=3635dc&_nc_eui2=AeEFjjn0k8CT97z8XPjiUaltcDQyMKvuagRwNDIwq-5qBFppkL4NjR63kNgTBG24BYNU4HKe8DcdA8WWMX5bf3zm&_nc_ohc=a4-9XG1yhsEAX-70RgB&_nc_ht=scontent.fdac27-2.fna&oh=00_AfAeOk2zYQbbojKKq_AU2Tp2rIU8i6Ba00T18-Tmf7nDnQ&oe=65A88115)
+![](https://scontent.fdac27-2.fna.fbcdn.net/v/t39.30808-6/419700367_1988752801495946_5453333288357240714_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=3635dc&_nc_eui2=AeHC1mCT525pC6gf-uHTNeNubjQAKox-nyRuNAAqjH6fJDw8ttL-OLd8QmclfD1GZLWAMtqpqjYTzezCxj0ljywp&_nc_ohc=C6w6yWBaIyoAX-EsY8-&_nc_ht=scontent.fdac27-2.fna&oh=00_AfDWqHr2um1qoEUV6TZatJdR4rTbwztRoc1dWYmJoDXaCg&oe=65A8A494)
 #### I'm a Computer Science Engineer 
 
 <img align="right" alt="coding" width="400" src="https://camo.githubusercontent.com/c2c315240a33d03dc80d0b793144cf88b2bf535fbdd6a1720b7aed2b63035adb/68747470733a2f2f696d672e6574696d672e636f6d2f7468756d622f6d7369642d38343134363035362c77696474682d313230302c6865696768742d3930302c696d6773697a652d3633383035332c726573697a656d6f64652d382f32303231303730365f646576656c6f7065722d65636f6e6f6d795f30312e6a7067">
