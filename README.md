@@ -17,7 +17,6 @@ A passionate **CSE student**, and My journey in the world of technology has been
 - 💬 Ask me about **Data Structure and Algorithms** 
 - 📫 How to reach me: md.rumman.shahriar@g.bracu.ac.bd 
 - ✉️ Personal mail: rummanshahriarrumman@gmail.com
-- 🐼 My Resume/CV: https://drive.google.com/file/d/1l7wVRxljYiB_u2Ld_kMbeUKezh8tvr44/view?usp=sharing
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/RummanShahriar)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/rumman.shahriar.1)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/rumman_shahriar_007/)
