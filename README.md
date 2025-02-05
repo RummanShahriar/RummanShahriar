@@ -1,14 +1,12 @@
 #### I'm a Computer Science Engineer 
 
-<img align="right" alt="coding" width="400" src="https://camo.githubusercontent.com/c2c315240a33d03dc80d0b793144cf88b2bf535fbdd6a1720b7aed2b63035adb/68747470733a2f2f696d672e6574696d672e636f6d2f7468756d622f6d7369642d38343134363035362c77696474682d313230302c6865696768742d3930302c696d6773697a652d3633383035332c726573697a656d6f64652d382f32303231303730365f646576656c6f7065722d65636f6e6f6d795f30312e6a7067">
-
 A passionate **CSE student**, and My journey in the world of technology has been a thrilling ride, filled with curiosity and a constant drive to learn.
 
-🚀 I dreamt of specialize in the field of **Data Science**, where I blend creativity with technical skills to craft innovative solutions. My love for Data has led me to contribute to various ideas and collaborate with like-minded individuals in the open-source community.
+🚀 I dreamt of specializing in the field of **Data Science**, where I blend creativity with technical skills to craft innovative solutions. My love for Data has led me to contribute to various ideas and collaborate with like-minded individuals in the open-source community.
 
 ♟️When I'm not immersed in lines of code, you can find me playing **Chess** at **Chess.com**
 
-📫 Now, Let's connect! Feel free to explore my repositories and projects. If you have any questions, suggestions, or just want to chat, drop me a message. I'm always open to new ideas and collaborations.
+📫 Now, Let's connect! Feel free to explore my repositories and projects. If you have any questions, or suggestions, or just want to chat, drop me a message. I'm always open to new ideas and collaborations.
 **Happy coding!** 🖥️✨
 
 **Skills: Python / SQL / R language / HTML** 
