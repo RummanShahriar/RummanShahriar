@@ -1,20 +1,21 @@
-#### I'm a Computer Science Engineer 
+#### Rumman is a Computer Science Engineer  
 
-A passionate **CSE student**, and My journey in the world of technology has been a thrilling ride, filled with curiosity and a constant drive to learn.
+Rumman is a passionate **CSE student**, whose journey in the world of technology has been a thrilling ride filled with curiosity and a constant drive to learn.  
 
-🚀 I dreamt of specializing in the field of **Data Science**, where I blend creativity with technical skills to craft innovative solutions. My love for Data has led me to contribute to various ideas and collaborate with like-minded individuals in the open-source community.
+🚀 He aspires to specialize in the field of **Data Science**, where he blends creativity with technical skills to craft innovative solutions. His love for data has led him to contribute to various ideas and collaborate with like-minded individuals in the open-source community.  
 
-♟️When I'm not immersed in lines of code, you can find me playing **Chess** at **Chess.com**
+♟️ When not immersed in lines of code, Rumman enjoys playing **Chess** on **Chess.com**.  
 
-📫 Now, Let's connect! Feel free to explore my repositories and projects. If you have any questions, or suggestions, or just want to chat, drop me a message. I'm always open to new ideas and collaborations.
-**Happy coding!** 🖥️✨
+📫 He is always open to connecting! Feel free to explore his repositories and projects. If you have any questions, suggestions, or just want to chat, drop him a message. Rumman is always open to new ideas and collaborations.  
+**Happy coding!** 🖥️✨  
 
-**Skills: Python / SQL / R language / HTML** 
+**Skills:** Python / SQL / R language / HTML  
 
-- 🌱 I’m currently learning **Ai and Machine Learning** 
-- 💬 Ask me about **Data Structure and Algorithms** 
-- 📫 How to reach me: md.rumman.shahriar@g.bracu.ac.bd 
-- ✉️ Personal mail: rummanshahriarrumman@gmail.com
+- 🌱 Currently learning **AI and Machine Learning**  
+- 💬 Knowledgeable in **Data Structures and Algorithms**  
+- 📫 Reach him at: **md.rumman.shahriar@g.bracu.ac.bd**  
+- ✉️ Personal mail: **rummanshahriarrumman@gmail.com**
+
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/RummanShahriar)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/rumman.shahriar.1)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/rumman_shahriar_007/)
