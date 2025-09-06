@@ -9,21 +9,17 @@
 
 ---
 
-### Skills  
+### **🌱** Skills  
 
-- **Microsoft Office & Productivity:** Microsoft Excel, PowerPoint, Microsoft Word, Slack  
 - **Languages:** Python, Java, MySQL  
 - **Web Development:** HTML, CSS, Bootstrap, PHP, MySQL, Flask  
 - **Artificial Intelligence & Machine Learning:** Scikit-learn, Pandas, NumPy, Matplotlib  
 - **Neural Networks & Deep Learning:** Python, TensorFlow, Keras  
 - **Computer Vision:** Convolutional Neural Networks (CNNs), U-Net, Image Processing  
 - **Natural Language Processing:** NLTK, Text Classification, Language Modeling, Tokenization, Parsing  
-- **Other Tools:** Git, GitHub, VS Code, LaTeX  
 
 ---
 
-- 🌱 Currently learning **AI and Machine Learning**  
-- 💬 Knowledgeable in **Data Structures and Algorithms**  
 - 📫 Reach him at: **md.rumman.shahriar@g.bracu.ac.bd**  
 - ✉️ Personal mail: **rummanshahriarrumman@gmail.com**
 
