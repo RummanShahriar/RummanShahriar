@@ -4,9 +4,7 @@
 
 ♟️ When not immersed in lines of code, Rumman enjoys playing **Chess** on **Chess.com**.  
 
-📫 He is always open to connecting! Feel free to explore his repositories and projects. If you have any questions, suggestions, or just want to chat, drop him a message. Rumman is always open to new ideas and collaborations.  
-
-**Happy coding!** 🖥️✨  
+📫 He is always open to connecting! Feel free to explore his repositories and projects. If you have any questions, suggestions, or just want to chat, drop him a message. Rumman is always open to new ideas and collaborations.   
 
 ### **🌱** Skills  
 
@@ -17,10 +15,10 @@
 - **Computer Vision:** Convolutional Neural Networks (CNNs), U-Net, Image Processing  
 - **Natural Language Processing:** NLTK, Text Classification, Language Modeling, Tokenization, Parsing  
 
-- 📫 Reach him at: **md.rumman.shahriar@g.bracu.ac.bd**  
-- ✉️ Personal mail: **rummanshahriarrumman@gmail.com**
+📫 Reach him at: **md.rumman.shahriar@g.bracu.ac.bd**  
+✉️ Personal mail: **rummanshahriarrumman@gmail.com**
 
-
+**Happy coding!** 🖥️✨ 
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/RummanShahriar)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/rumman.shahriar.1)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/rumman_shahriar_007/)
