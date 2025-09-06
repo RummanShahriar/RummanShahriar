@@ -5,9 +5,8 @@
 ♟️ When not immersed in lines of code, Rumman enjoys playing **Chess** on **Chess.com**.  
 
 📫 He is always open to connecting! Feel free to explore his repositories and projects. If you have any questions, suggestions, or just want to chat, drop him a message. Rumman is always open to new ideas and collaborations.  
-**Happy coding!** 🖥️✨  
 
----
+**Happy coding!** 🖥️✨  
 
 ### **🌱** Skills  
 
@@ -17,8 +16,6 @@
 - **Neural Networks & Deep Learning:** Python, TensorFlow, Keras  
 - **Computer Vision:** Convolutional Neural Networks (CNNs), U-Net, Image Processing  
 - **Natural Language Processing:** NLTK, Text Classification, Language Modeling, Tokenization, Parsing  
-
----
 
 - 📫 Reach him at: **md.rumman.shahriar@g.bracu.ac.bd**  
 - ✉️ Personal mail: **rummanshahriarrumman@gmail.com**
