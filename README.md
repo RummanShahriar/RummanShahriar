@@ -1,7 +1,5 @@
 #### Rumman is a Computer Science Engineer  
 
-Rumman is a passionate **CSE student**, whose journey in the world of technology has been a thrilling ride filled with curiosity and a constant drive to learn.  
-
 🚀 He aspires to specialize in the field of **Data Science**, where he blends creativity with technical skills to craft innovative solutions. His love for data has led him to contribute to various ideas and collaborate with like-minded individuals in the open-source community.  
 
 ♟️ When not immersed in lines of code, Rumman enjoys playing **Chess** on **Chess.com**.  
@@ -11,7 +9,7 @@ Rumman is a passionate **CSE student**, whose journey in the world of technology
 
 ---
 
-### 🛠️ Technical Skills  
+### Skills  
 
 - **Microsoft Office & Productivity:** Microsoft Excel, PowerPoint, Microsoft Word, Slack  
 - **Languages:** Python, Java, MySQL  
